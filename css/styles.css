@@ -260,7 +260,8 @@ body {
   background-color: rgba(255, 255, 255, 0.905);
   opacity: 0;
   transition: 0.5s opacity;
-  margin: 5px;
+  margin-right: 5px;
+
 }
 #portfolio .tab-content .card:hover .card-over {
   opacity: 1;
