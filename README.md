@@ -1,0 +1,1 @@
+I recently completed an exam as part of a codecamp at Route Academy, focusing on HTML and CSS. The exam provided a comprehensive assessment of my skills and knowledge in these programming languages. I am proud to have successfully completed the exam and look forward to applying the knowledge and experience gained through this codecamp in future projects and endeavors.
